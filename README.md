@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TronsDevelopment (Full Stack Developer)
+- 👀 I’m interested in HTML and JavaScript
+- 🌱 I’m currently learning Database
+- 😄 Pronouns: Trons / Doraemon
